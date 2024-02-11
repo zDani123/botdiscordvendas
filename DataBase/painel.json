@@ -1,0 +1,30 @@
+{
+    "cloudvps": {
+        "idpn": "cloudvps",
+        "titulo": "Sem Nome | Painel",
+        "desc": "# Sem Descrição...",
+        "pd": [
+            "cloudvps1"
+        ]
+    },
+    "dominios": {
+        "idpn": "dominios",
+        "titulo": "Dominios",
+        "desc": "Dominios",
+        "pd": [
+            "dominio-pt",
+            "dominio-com",
+            "dominio-net"
+        ]
+    },
+    "netflix": {
+        "idpn": "netflix",
+        "titulo": "Netflix",
+        "desc": "Planos",
+        "pd": [
+            "netflix-basic",
+            "netflix-standard",
+            "netflix-premium"
+        ]
+    }
+}
